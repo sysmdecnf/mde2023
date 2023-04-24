@@ -5,8 +5,3 @@ plugins:
 title: 1st Workshop on Model-based Systems Engineering
 description: 1st Workshop on Model-based Systems Engineering
 
-# External navigation links
-nav_external_links:
-  - title: Organizers
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
