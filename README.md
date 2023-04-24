@@ -27,3 +27,47 @@ processes.
 # Objectives
 The goal is to bring together researchers and practitioners, from both industry
 and academia, interested in MBSE and SysML.
+
+# Intended audience
+The intended audience consists of all people from industry or academia who are
+interested in the use of models or SysML for the engineering of systems in any domain.
+
+# Topics of interest
+We are particularly interested in applications of SysML in modeling systems.
+Papers could describe tools or experience reports that use SysML for modeling
+systems to make a direct impact on specifying, understanding, analysis, testing,
+debugging, security, and sustainability of systems. The application domains include but are not limited to automotive, agriculture, healthcare, industry 4.0,
+smart building and cities, socio-technical systems, and telecom (e.g. 5G). The
+workshop has the ambition to cover the following topics/questions:
+Best practices for implementing MBSE and SysML in different domains (e.g.,
+aerospace, automotive, defense, etc.)
+• Experience reports on the benefits and challenges of using MBSE and
+SysML in different domains.
+– Tooling and automation for MBSE and SysML
+• What are the tools available for MBSE and SysML, and how do they
+support the development process?
+• How can automation be used on SysML models to support MBSE, and
+what are the limitations of automation?
+– Machine learning, AI technologies and SysML
+• How can AI techniques be integrated with SysML to support decisionmaking in system development and validation?
+• How can SysML models be integrated with machine learning models to
+support system simulation and analysis?
+• How can machine learning algorithms be used to automatically generate
+SysML models from natural language descriptions of system requirements for better understanding and visualizing system components?
+– Model-based systems engineering process improvement using SysML
+• How can MBSE and SysML be integrated into the development process
+to improve efficiency and effectiveness?
+• What are the best practices for managing and sharing MBSE models
+across the development team?
+• SysML models examples/experiments for product development processes
+modeling, design, and validation
+• Data-driven optimization of simulated product development processes
+using machine learning and analytics
+• MBSE for continuous improvement and evolution of development processes
+• Domain-specific modeling languages for development processes
+• Using MBSE to identify and prioritize system process improvements
+• Notations and languages for CI/CD process simulation and testing
+– SysML and MBSE for system validation and verification
+• How can MBSE and SysML be used to support system validation and
+verification? What are the best practices for using MBSE and SysML in
+the context of system testing and validation?
