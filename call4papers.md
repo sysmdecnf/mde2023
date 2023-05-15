@@ -4,10 +4,6 @@
 [Accepted Papers](https://sysmdecnf.github.io/mde2023/acceptedPapers)
 [Contact](https://sysmdecnf.github.io/mde2023/contact)
 
-## 1st Workshop on Model-Based Systems Engineering (MBSE) and SysML
-### Co-located with the MODELS’23 Conference
-Workshop website: https://sysmdecnf.github.io/mde2023/
-
 October 1-6, 2023
 Västerås, Sweden
 
