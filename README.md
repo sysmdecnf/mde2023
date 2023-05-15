@@ -1,6 +1,6 @@
 [Home](https://pages.github.com/)
 [Committees](https://pages.github.com/)
-[Call for Papers](https://pages.github.com/)
+[Call for Papers](https://sysmdecnf.github.io/mde2023/call4papers)
 [Accepted Papers](https://pages.github.com/)
 [Program](https://pages.github.com/)
 
