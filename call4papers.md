@@ -41,7 +41,7 @@ Submissions must adhere to the IEEE formatting instructions, for which An Overle
 For more information and updates, please visit the workshop website: [https://sysmdecnf.github.io/mde2023/](https://sysmdecnf.github.io/mde2023/)
 
 Contact:
-For inquiries, please contact the workshop organizers at [reza.ahmadi@etsmtl.ca](reza.ahmadi@etsmtl.ca). More details about the workshop could be found on its website: https://sysmdecnf.github.io/mde2023/
+For inquiries, please contact the workshop organizers at **reza.ahmadi@etsmtl.ca**. More details about the workshop could be found on its website: https://sysmdecnf.github.io/mde2023/
 
 
 We look forward to your submissions and participation in the 1st Workshop on MBSE, held in Västerås, Sweden!
