@@ -33,10 +33,15 @@ Submissions must adhere to the IEEE formatting instructions, for which An Overle
 
 
 ### Important Dates
-  - Mo 17 July 2023: Submissions deadline
+  - Mo 17 July 2023: Submission deadline
   - Tue 15 Aug 2023: Notification of authors
   - Tue 22 Aug 2023: Camera-ready deadline
   - Sun 1 Oct - Tue 3 Oct 2023: Workshop dates
 
-We look forward to your submissions and participation in the 1st Workshop on MBSE and SysML, held in Västerås, Sweden!
+For more information and updates, please visit the workshop website: [https://sysmdecnf.github.io/mde2023/](https://sysmdecnf.github.io/mde2023/)
 
+Contact:
+For inquiries, please contact the workshop organizers at [reza.ahmadi@etsmtl.ca](reza.ahmadi@etsmtl.ca). More details about the workshop could be found on its website: https://sysmdecnf.github.io/mde2023/
+
+
+We look forward to your submissions and participation in the 1st Workshop on MBSE, held in Västerås, Sweden!
