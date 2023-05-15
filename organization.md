@@ -30,3 +30,4 @@
 * maximilian vierlboeck
 * Robert G Pettit
 * Ed Seidewitz
+* Sebastian Voss
