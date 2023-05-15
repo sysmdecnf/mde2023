@@ -2,6 +2,7 @@
 [Organization](https://sysmdecnf.github.io/mde2023/organization)
 [Call for Papers](https://sysmdecnf.github.io/mde2023/call4papers)
 [Accepted Papers](https://sysmdecnf.github.io/mde2023/acceptedPapers)
+[Contact](https://sysmdecnf.github.io/mde2023/contact)
 
 # Motivation 
 Model-Based Systems Engineering (MBSE) is a systems engineering paradigm that promotes the systematic use of models throughout the engineering process. It has emerged as a promising approach for developing complex systems in a cost-effective and efficient manner. MBSE facilitates effective representation of the many different artifacts that are required during system development, from requirements elicitation and analysis, design, manufacturing, implementation, validation, and delivery to maintenance and evolution. Moreover, MBSE supports the implementation of many of the activities involved in development, from individual steps to entire processes and workflows. Compared to traditional (e.g., ’document’-based development), MBSE can thus improve communication and present analysis and automation opportunities that can help ensure that the system satisfies complex, possibly evolving sets of requirements from different stakeholders and make development more efficient and agile overall. MBSE also facilitates leveraging new and emerging data analytics techniques and tools through, e.g., detection of anomalies, monitoring of KPIs, as well as automatic simulation and ’what-if’ analyses.
