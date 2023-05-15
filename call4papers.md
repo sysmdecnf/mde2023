@@ -1,5 +1,3 @@
-layout: page
-title: "Call for papers"
 
 **1st Workshop on Model-Based Systems Engineering (MBSE) and SysML**
 Co-located with the MODELS’23 Conference
