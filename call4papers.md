@@ -2,6 +2,7 @@
 [Organization](https://sysmdecnf.github.io/mde2023/organization)
 [Call for Papers](https://sysmdecnf.github.io/mde2023/call4papers)
 [Accepted Papers](https://sysmdecnf.github.io/mde2023/acceptedPapers)
+[Contact](https://sysmdecnf.github.io/mde2023/contact)
 
 # 1st Workshop on Model-Based Systems Engineering (MBSE) and SysML
 ### Co-located with the MODELS’23 Conference
