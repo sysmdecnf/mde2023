@@ -3,22 +3,22 @@
 [Call for Papers](https://sysmdecnf.github.io/mde2023/call4papers)
 [Accepted Papers](https://sysmdecnf.github.io/mde2023/acceptedPapers)
 
-**1st Workshop on Model-Based Systems Engineering (MBSE) and SysML**
-Co-located with the MODELS’23 Conference
+# 1st Workshop on Model-Based Systems Engineering (MBSE) and SysML
+### Co-located with the MODELS’23 Conference
 Workshop website: https://sysmdecnf.github.io/mde2023/
 
 October 1-6, 2023
 Västerås, Sweden
 
 
-**Motivation:**
+## Motivation
 
 Model-Based Systems Engineering (MBSE) has emerged as a promising approach for developing complex systems in a cost-effective and efficient manner. It promotes the systematic use of models throughout the engineering process, facilitating effective representation of system artifacts and supporting various activities involved in development. SysML (Systems Modeling Language) has become a de facto standard for MBSE, providing a unified approach to modeling system requirements, architecture, behavior, and performance.
 
-Objective:
+## Objective
 The 1st Workshop on MBSE and SysML aims to bring together researchers and practitioners from industry and academia interested in the use of models and SysML for system engineering. The workshop provides a platform to share experiences, best practices, and solutions, as well as discuss the latest advances, challenges, and future directions in MBSE and SysML.
 
-Topics of Interest:
+## Topics of Interest
 We invite submissions related to the application of SysML in modeling systems and its impact on system development and engineering processes. Topics of interest include, but are not limited to:
 
 Best practices for implementing MBSE and SysML in different domains (e.g., aerospace, automotive, defense, etc.) 
@@ -43,26 +43,15 @@ SysML and MBSE for system validation and verification
 How can MBSE and SysML be used to support system validation and verification? What are the best practices for using MBSE and SysML in the context of system testing and validation?
 
 
-Submission Guidelines:
+## Submission Guidelines
 Submissions must adhere to the IEEE formatting instructions, for which An Overleaf template is available here. Papers should have at least 5 pages, 5 pages for short papers and 10 pages for full papers following the same style and format as the main tracks of the Conference. Submit your workshop proposal electronically in PDF using the MODELS EasyChair submission site [our easychair link here?]. All submissions will undergo a peer-review process by the program committee. Submissions that do not adhere to the formatting instructions may be desk-rejected without review.
 
 
-Important Dates:
+## Important Dates
 Mo 17 July 2023: Submissions deadline
 Tue 15 Aug 2023: Notification of authors
 Tue 22 Aug 2023: Camera-ready deadline
 Sun 1 Oct - Tue 3 Oct 2023: Workshop dates
-
-Workshop Organizers:
-Juergen Dingel (Queen's University, Canada)
-Reza Ahmadi (ETS, Canada)
-Francis Bordeleau (ETS, Canada)
-Sébastien Mosser (McMaster University, Canada)
-Jean-Michel Bruel (University of Toulouse, France)
-For more information and updates, please visit the workshop website: [website URL]
-
-Contact:
-For inquiries, please contact the workshop organizers at reza.ahmadi@etsmtl.ca and for more details about the workshop could be found in its website: https://sysmdecnf.github.io/mde2023/
 
 We look forward to your submissions and participation in the 1st Workshop on MBSE and SysML, held in Västerås, Sweden!
 
