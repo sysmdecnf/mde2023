@@ -4,7 +4,7 @@
 [Accepted Papers](https://sysmdecnf.github.io/mde2023/acceptedPapers)
 [Contact](https://sysmdecnf.github.io/mde2023/contact)
 
-**Workshop Organizers:**
+## Workshop Organizers
 
 * [Juergen Dingel - Queen's University, Canada](https://www.cs.queensu.ca/people/Juergen/Dingel)
 
@@ -17,7 +17,7 @@
 * [Jean-Michel Bruel - University of Toulouse, France](https://jmbruel.netlify.app/)
 
 
-**Program Committee:**
+## Program Committee
 * Alessio Bucaioni
 * Bernhard Rumpe
 * Eric Bonjour
