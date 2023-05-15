@@ -2,135 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
+ 
 
-// Variables
-$white: #FFF;
-$grey: #F2F2F4;
-$teal: #00EFFF;
-$aqua: #5990FF;
-$navy: #23355B;
-$greyBlue: #4e5664;
-
-html {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 62.5%;
-}
-
-section {
-  text-align: center;
-  width: 90%;
-  height: 50vh;
-  padding: 0 5%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.grey-bg {background: $grey;}
-
-.navy-bg {background: $navy;}
-
-.button {
-  font-size: 1.6rem;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  text-align: center;
-  height: 48px;
-  line-height: 48px;
-  border-radius: 3px;
-  display: block;
-  margin: 0 auto 32px;
-  position: relative;
-  z-index: 1;
-  transition: all 250ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  @media screen and (min-width: 768px) {
-    margin: 0 auto 56px;
-  }
-}
-
-.standard {
-  width: 160px;
-}
-
-.wide {
-  width: 200px;
-}
-
-.aqua-fill {
+a {
+  background-color: red;
   color: white;
+  padding: 0.5em 0.75em;
   text-decoration: none;
-  background: $aqua;
-  &:hover {
-    background: darken($aqua, 8%);
-  }
+  text-transform: uppercase;
 }
 
-.white-stroke {
-  color: white;
-  text-decoration: none;
-  border: solid 1px $white;
-  background: none;
-  &:hover {
-    color: $aqua;
-    background: $white;
-  }
+a:hover {
+  background-color: #555;
 }
 
-.teal-stroke {
-  color: $teal;
-  text-decoration: none;
-  border: solid 1px $teal;
-  background: none;
-  &:hover {
-    color: $navy;
-    background: $teal;
-  }
+a:active {
+  background-color: black;
 }
 
-.link-gray {
-  font-size: 1.8rem;
-  color: $greyBlue;
-  padding: 4px;
-  transition: all 250ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  &:hover {
-    color: $white;
-    text-decoration: none;
-    background: $greyBlue;
-  }
+a:visited {
+  background-color: #ccc;
 }
 
-.link-white {
-  font-size: 1.8rem;
-  color: $white;
-  padding: 4px;
-  transition: all 250ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  &:hover {
-    color: $navy;
-    text-decoration: none;
-    background: $white;
-  }
-}
-
-// Diffused shadow styling
-.shadow {
-  height: 48px;
-  width: 160px;
-  overflow: visible;
-  position: relative;
-  margin: 0 auto 32px;
-  &:before {
-    content: "";
-    width: 75%;
-    height: 50%;
-    background: $navy;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 0;
-    box-shadow: 0 2px 12px 0 rgba($navy, .25);
-  }
-  @media screen and (min-width: 768px) {
-    margin: 0 auto 56px;
-  }
-}
